@@ -1,0 +1,24 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./src/index.d.ts"
+    }
+  },
+  "license": "MIT",
+  "description": "Reusable logging middleware for Affordmed evaluation. Posts logs to the Test Server.",
+  "keywords": [
+    "affordmed",
+    "logging",
+    "middleware"
+  ],
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {}
+}
