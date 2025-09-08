@@ -6,7 +6,7 @@ async function register() {
 email: "Vaibhavmishra71930@gmail.com",
 name: "Vaibhav Mishra",
 mobileNo:"8957071930",
-githubUsername: "githubVaibhav1930",
+githubUsername: "Vaibhav1930",
 rollNo: "220164520189",
 accessCode: "sAWTuR"
 }),
